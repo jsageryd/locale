@@ -10,4 +10,4 @@ Usage
 
 Disclaimer
 ------------------
-I take no responsibility for these scripts should they cause any harm.
+I take no responsibility for this script should it cause any harm.
